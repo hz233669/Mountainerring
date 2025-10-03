@@ -21,10 +21,7 @@ git checkout -B main
 git add -A
 git commit -m 'deploy'
 
-# if you are deploying to https://lokf9527.github.io
-# git push -f git@github.com:lokf9527/lokf9527.github.io.git main
 
-# if you are deploying to https://lokf9527.github.io/mountainerring2
-git push -f https://github.com/lokf9527/Mountainerring2.git main:gh-pages
+git push -f https://github.com/hz233669/Mountaineering.git main:gh-pages
 
 cd -
