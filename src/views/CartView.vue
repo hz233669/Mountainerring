@@ -135,7 +135,7 @@ export default {
                     <div class="col-md-3">
                         <div class="card border-0 mb-4 cardProducts" style="border-radius:0%">    
                             <RouterLink to="/product/-NN0TN0Oy7quf2LBeINs">
-                                <img src="https://greathunger.com.tw/images/images/activity2_20221202152957.jpg" class="card-img-top rounded-0" alt="能高安東軍縱走" />
+                                <img src="https://greathunger.com.tw/images/images/activity0_20230518150304.JPG" class="card-img-top rounded-0" alt="能高安東軍縱走" />
                             </RouterLink>
                             <RouterLink to="/product/-NN0TN0Oy7quf2LBeINs">
                             <div class="card-body text-start text-dark">
@@ -152,7 +152,7 @@ export default {
                     <div class="col-md-3">
                         <div class="card border-0 mb-4 cardProducts" style="border-radius:0%">
                             <RouterLink to="/product/-NKpwDun9A4lFDuSlmJL">
-                                <img src="https://greathunger.com.tw/images/images/activity8_20221114191552.jpg" class="card-img-top rounded-0" alt="戒茂斯上嘉明湖" />
+                                <img src="https://greathunger.com.tw/images/activity_20241130231510.jpg" class="card-img-top rounded-0" alt="戒茂斯上嘉明湖" />
                             </RouterLink>
                             <RouterLink to="/product/-NKpwDun9A4lFDuSlmJL">
                             <div class="card-body text-start text-dark">
@@ -212,7 +212,7 @@ export default {
                     <div class="col-md-3">
                         <div class="card border-0 mb-4 cardProducts" style="border-radius:0%">    
                             <RouterLink to="/product/-NN0TN0Oy7quf2LBeINs">
-                                <img src="https://greathunger.com.tw/images/images/activity2_20221202152957.jpg" class="card-img-top rounded-0" alt="能高安東軍縱走" />
+                                <img src="https://greathunger.com.tw/images/images/activity0_20230518150304.JPG" class="card-img-top rounded-0" alt="能高安東軍縱走" />
                             </RouterLink>
                             <RouterLink to="/product/-NN0TN0Oy7quf2LBeINs">
                             <div class="card-body text-start text-dark">
@@ -229,7 +229,7 @@ export default {
                     <div class="col-md-3">
                         <div class="card border-0 mb-4 cardProducts" style="border-radius:0%">
                             <RouterLink to="/product/-NKpwDun9A4lFDuSlmJL">
-                                <img src="https://greathunger.com.tw/images/images/activity8_20221114191552.jpg" class="card-img-top rounded-0" alt="戒茂斯上嘉明湖" />
+                                <img src="https://greathunger.com.tw/images/activity_20241130231510.jpg" class="card-img-top rounded-0" alt="戒茂斯上嘉明湖" />
                             </RouterLink>
                             <RouterLink to="/product/-NKpwDun9A4lFDuSlmJL">
                             <div class="card-body text-start text-dark">
